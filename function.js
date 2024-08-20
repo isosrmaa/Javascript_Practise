@@ -307,7 +307,7 @@ const printHello=()=>console.log("helo");
 // let filteredMarks=marks.filter(function(item){
 //   return item>=90;
 // });
-console.log(filteredMarks);
+// console.log(filteredMarks);
 
 
 

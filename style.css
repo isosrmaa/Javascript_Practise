@@ -11,3 +11,28 @@ body{
 h1{
     background-color: aquamarine;
     color: brown;
+    text-align: center;
+}
+h2{
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+}
+div{
+    background-color: lightblue;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.box div{
+    width: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+    
+}
